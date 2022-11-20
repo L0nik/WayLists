@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WayLists</string>
+    <string name="title_activity_way_list_history">WayListHistory</string>
+</resources>
