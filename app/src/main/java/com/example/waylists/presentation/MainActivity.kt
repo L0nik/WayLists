@@ -1,4 +1,4 @@
-package com.example.waylists
+package com.example.waylists.presentation
 
 import android.content.Context
 import android.content.Intent

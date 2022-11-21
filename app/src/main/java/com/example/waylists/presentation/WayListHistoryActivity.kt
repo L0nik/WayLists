@@ -1,4 +1,4 @@
-package com.example.waylists
+package com.example.waylists.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
